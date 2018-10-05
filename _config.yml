@@ -1,3 +1,5 @@
+baseurl: "vefhonnun-deploy"
+
 collections:
   authors:
     output: true
