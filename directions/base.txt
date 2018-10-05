@@ -1,0 +1,4 @@
+1. Jekyll
+2. RWD
+3. SCSS
+4. Myndvinnsla
